@@ -5,7 +5,7 @@
 * 📗 I’m always ready to collaborate and learn new skills
 * 🖥 Enhancing my tech skills
 * 🛠  Languages - Python | C++ | C | JavaScript | Java | HTML | CSS | SQL
-* 🧾[Resume](https://drive.google.com/file/d/1aRz1ziVkINfxxK7Uzoni_y2w5HBdoMQS/view?usp=share_link)
+* 🧾[Resume](https://drive.google.com/file/d/1PZA79Ig6FE7idWjB5RqOc5kXy6bwYoG2/view?usp=share_link)
  
 ## Programming Skills 
 

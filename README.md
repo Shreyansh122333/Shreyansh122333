@@ -19,9 +19,10 @@
 * GitHub
 
 ## Project
-* [Web Development Project](https://github.com/Shreyansh122333/DigitalHub)
+* [NEWS Application using APIs](https://github.com/Shreyansh122333/NEWS-Application)
 * [Spotify Music System](https://github.com/Shreyansh122333/spotify_clone)
-* [Quantum Computing](https://github.com/Shreyansh122333/Dimensionality-Reduction)
+* [Web Development Project](https://github.com/Shreyansh122333/DigitalHub)
 * [Virtual Assistant Using Python](https://github.com/Shreyansh122333/Virtual_Assistant_using_python)
+* [Quantum Computing](https://github.com/Shreyansh122333/Dimensionality-Reduction)
 * [Google Cloud Skills Boost](http://qwiklabs.com/public_profiles/84c7de5a-e381-4583-866d-639e43147b28)
 

@@ -30,7 +30,7 @@
 ### 🚀 Key Projects & Impact
 
 * **[Python Automation & AI](https://github.com/Shreyansh122333/Virtual_Assistant_using_python)** – Developed custom automation scripts and virtual assistants to streamline repetitive workflows.
-* **[NEWS Application](https://github.com/Shreyansh122333/NEWS-Application)** – High-performance React application utilizing real-time API integrations.
+* **[NEWS Application](https://github.com/Shreyansh122333/NEWS_Application)** – High-performance React application utilizing real-time API integrations.
 * **[Flask & Backend Systems](https://github.com/Shreyansh122333/Dimensionality-Reduction)** – Leveraged Python/Flask for data-intensive projects and dimensionality reduction research.
 * **[Spotify Clone](https://github.com/Shreyansh122333/spotify_clone)** – Advanced UI/UX implementation focusing on complex state management in React.
 

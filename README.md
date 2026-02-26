@@ -13,34 +13,32 @@
 
 ### 🛠 Tech Stack
 
-**Languages & Databases**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Frontend & Backend (MERN + Flask)**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-**Frontend & Design**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+**Languages & Automation**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
+**Tools & Infrastructure**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
- 
-## Programming Skills 
 
-* Testing
-* Web development, OOPs
-* Data Structure and Algorithms
-* C++, Python, C, HTML, CSS, Java Script, SQL
+### 🚀 Key Projects & Impact
 
-## Technologies
-* Git
-* GitHub
+* **[Python Automation & AI](https://github.com/Shreyansh122333/Virtual_Assistant_using_python)** – Developed custom automation scripts and virtual assistants to streamline repetitive workflows.
+* **[NEWS Application](https://github.com/Shreyansh122333/NEWS-Application)** – High-performance React application utilizing real-time API integrations.
+* **[Flask & Backend Systems](https://github.com/Shreyansh122333/Dimensionality-Reduction)** – Leveraged Python/Flask for data-intensive projects and dimensionality reduction research.
+* **[Spotify Clone](https://github.com/Shreyansh122333/spotify_clone)** – Advanced UI/UX implementation focusing on complex state management in React.
 
-## Project
-* [NEWS Application using APIs](https://github.com/Shreyansh122333/NEWS-Application)
-* [Spotify Music System](https://github.com/Shreyansh122333/spotify_clone)
-* [Web Development Project](https://github.com/Shreyansh122333/DigitalHub)
-* [Virtual Assistant Using Python](https://github.com/Shreyansh122333/Virtual_Assistant_using_python)
-* [Quantum Computing](https://github.com/Shreyansh122333/Dimensionality-Reduction)
+---
+
+### 📊 GitHub Stats
+
+![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyansh122333&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh122333&layout=compact&theme=radical)
+
+---
 
 ### 📫 Connect with me:
 * **Google Cloud Profile:** [Skills Boost](http://qwiklabs.com/public_profiles/84c7de5a-e381-4583-866d-639e43147b28)
